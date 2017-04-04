@@ -1,0 +1,84 @@
+body{
+	font-family:sans-serif;
+}
+.nav{
+background-color:blue;
+width:100%;
+height:100px;
+text-align:right;
+padding-top:3px;
+font-size:1em
+
+}
+.nav h1{
+float:left;
+color:#ffffff;
+font-size:2em;
+
+
+}
+h1{
+color:green;
+}
+.nav li{
+display:inline;
+padding:8px;
+padding-top:8px;
+
+}
+
+
+
+
+.nav a{
+color:#ffffff;
+text-decoration:none;
+}
+
+.intro img{
+	border-radius:50%;
+	border-style:solid;
+margin-top:10px;
+	}
+	.intro h1{
+	font-size:2em;
+	color:green;
+	text-align:center;
+	
+	}
+	.intro h3{
+		font-size:1.5em;
+		color:gray
+		}
+.aboutc{
+background-color: grey;
+}
+	.about{
+	padding:10px 0px 50px 0px;
+	text-align:center;
+width: 50%;
+margin-left: 24%;	
+
+	}
+	
+.myskills{
+background-color:#EEEEEE;
+padding:50px 0 10px 0;
+}
+ .social{
+background-color:yellow;
+text-align:center;
+padding-top:2px;
+padding-bottom:2px;
+}
+
+.qualification table{
+border-color:red;
+}		
+ul {
+color: #ff0000;
+}
+	
+ol {
+color: #00ff00;
+}
